@@ -1,5 +1,3 @@
-
-![MasterHead](https://glivera-team.com/wp-content/uploads/2019/11/fronend-blog.jpg)
 <h1 align="center">Hi 👋, I'm Mohammad Ubaid</h1>
 <h3 align="center" style="margin-bottom: 24px;">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
